@@ -1,3 +1,2 @@
 ## hello-world
 Just a place to store ideas and stuff
-The only thing is that I am in the middle of a writer's block...
