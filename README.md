@@ -1,2 +1,2 @@
 ## hello-world
-Just a place to store ideas and stuff
+Just a place to store ideas and stuff!
